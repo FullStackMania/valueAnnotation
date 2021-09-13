@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "database-configuration.url",
+    "type": "java.lang.String",
+    "description": "A description for 'database-configuration.url'"
+  },
+  {
+    "name": "database-configuration.username",
+    "type": "java.lang.String",
+    "description": "A description for 'database-configuration.username'"
+  },
+  {
+    "name": "database-configuration.password",
+    "type": "java.lang.String",
+    "description": "A description for 'database-configuration.password'"
+  },
+  {
+    "name": "valuesMap.key1",
+    "type": "java.lang.String",
+    "description": "A description for 'valuesMap.key1'"
+  },
+  {
+    "name": "valuesMap.key2",
+    "type": "java.lang.String",
+    "description": "A description for 'valuesMap.key2'"
+  },
+  {
+    "name": "valuesMap.key3",
+    "type": "java.lang.String",
+    "description": "A description for 'valuesMap.key3'"
+  }
+]}
